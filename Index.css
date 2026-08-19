@@ -169,6 +169,10 @@ button{
     margin-left:1.5rem;
     margin-top:1rem;
     margin-right:1rem;
+    transition-duration:1s;
+}
+.card:hover{
+    box-shadow:8px 8px 5px black
 }
 .card img{
     width:100%;
