@@ -169,7 +169,6 @@ button{
     margin-left:1.5rem;
     margin-top:1rem;
     margin-right:1rem;
-    transition-duration:1s;
 }
 .card:hover{
     box-shadow:1px 1px 6px white;
